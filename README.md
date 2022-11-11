@@ -2,7 +2,7 @@
 - 👀 I’m interested in Minecraft Plugins etc
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Mc
-- 📫 How to reach me 𝐊𝐜ツ#4496
+- 📫 How to reach me Kc#1000
 
 <!---
 Kckiller/Kckiller is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
