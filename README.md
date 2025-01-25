@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tyrese</h1>
-<h3 align="center">I enjoy hurting my brain</h3>
+<h3 align="center">I am probably learning something new</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tyresebeete&label=Profile%20views&color=0e75b6&style=flat" alt="tyresebeete" /> </p>
 
